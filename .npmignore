@@ -4,6 +4,7 @@ scripts
 .gitignore
 assets
 .DS_Store
+scripts
 
 generatortest
 generators/app/index.ts
