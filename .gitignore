@@ -1,0 +1,7 @@
+generatortest
+generators/app/index.js
+generators/app/index.js.map
+
+node_modules
+
+.DS_Store

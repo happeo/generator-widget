@@ -1,0 +1,9 @@
+tsconfig.json
+.github
+scripts
+.gitignore
+assets
+.DS_Store
+
+generatortest
+generators/app/index.ts

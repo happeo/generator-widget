@@ -1,0 +1,21 @@
+{
+  "name": "@happeo/generator-widget",
+  "version": "0.0.1",
+  "description": "Template generator for Happeo widgets",
+  "main": "generators/app/index.js",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc -w"
+  },
+  "author": "Elio Struyf",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/yeoman-generator": "^5.2.5",
+    "@types/yosay": "^2.0.0",
+    "typescript": "^4.4.3"
+  },
+  "dependencies": {
+    "yeoman-generator": "^5.4.2",
+    "yosay": "^2.0.2"
+  }
+}
