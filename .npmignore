@@ -1,7 +1,7 @@
-tsconfig.json
+./tsconfig.json
 .github
-scripts
 .gitignore
+.vscode
 assets
 .DS_Store
 scripts
